@@ -1,0 +1,16 @@
+D:\DotNet\kudvenkat\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp2.2\EmployeeManagement.deps.json
+D:\DotNet\kudvenkat\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp2.2\EmployeeManagement.runtimeconfig.json
+D:\DotNet\kudvenkat\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp2.2\EmployeeManagement.runtimeconfig.dev.json
+D:\DotNet\kudvenkat\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp2.2\EmployeeManagement.dll
+D:\DotNet\kudvenkat\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp2.2\EmployeeManagement.pdb
+D:\DotNet\kudvenkat\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\EmployeeManagement.csproj.AssemblyReference.cache
+D:\DotNet\kudvenkat\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\EmployeeManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet\kudvenkat\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\EmployeeManagement.AssemblyInfoInputs.cache
+D:\DotNet\kudvenkat\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\EmployeeManagement.AssemblyInfo.cs
+D:\DotNet\kudvenkat\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\EmployeeManagement.csproj.CoreCompileInputs.cache
+D:\DotNet\kudvenkat\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\EmployeeManagement.RazorAssemblyInfo.cache
+D:\DotNet\kudvenkat\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\EmployeeManagement.RazorAssemblyInfo.cs
+D:\DotNet\kudvenkat\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\EmployeeManagement.RazorTargetAssemblyInfo.cache
+D:\DotNet\kudvenkat\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\EmployeeManagement.dll
+D:\DotNet\kudvenkat\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\EmployeeManagement.pdb
+D:\DotNet\kudvenkat\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.2\EmployeeManagement.genruntimeconfig.cache
